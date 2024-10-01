@@ -1,8 +1,7 @@
 
 
 
-# Personalized Financial Planning Tool with AI-Driven Insights
-# MLH Hackathon Monterrey 2024
+# Personalized Financial Planning Tool with AI-Driven Insights | MLH Hackathon Monterrey 2024
 
 ## Overview
 
